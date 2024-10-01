@@ -1,0 +1,1 @@
+{"level":50,"time":"2024-10-01T12:05:16.516Z","pid":7636,"hostname":"Adrian","statusCode":200,"url":"/auth/signup","msg":"notNull Violation: users.fullname cannot be null"}
